@@ -2,10 +2,12 @@
 
 namespace FizzBuzz {
     class Program {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args) {
+
+            Console.Write("Até Qual Numero vai ser testado se 'FizBuzz'?: ");
             int n = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("\n");
             for (int i = 1; i <= n; i++)
             {
                 Result.fizzBuzz(i);
