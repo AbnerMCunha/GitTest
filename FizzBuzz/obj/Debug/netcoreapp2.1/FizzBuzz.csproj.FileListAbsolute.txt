@@ -1,0 +1,13 @@
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.deps.json
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.json
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.runtimeconfig.dev.json
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csproj.AssemblyReference.cache
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.dll
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.pdb
+C:\Abner\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.genruntimeconfig.cache
